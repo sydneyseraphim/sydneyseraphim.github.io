@@ -48,10 +48,10 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #3b597c; }
+  color: #eaeef2; }
   a:focus, a:hover {
     text-decoration: none;
-    color: #1d9b6c; }
+    color: #eaeef2; }
 
 pop-p {
   font-size: 10px; 
