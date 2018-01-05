@@ -152,8 +152,8 @@ pop-p {
     background: rgba(255, 255, 255, 0.1); }
 
 .btn-sq-lg {
-  width: 125px !important;
-  height: 125px !important;
+  width: 100px !important;
+  height: 100px !important;
   color: #3b597c;
   border: 1px solid #3b597c;
   background-color: transparent; }
