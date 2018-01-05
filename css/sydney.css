@@ -151,6 +151,19 @@ pop-p {
     outline: none;
     background: rgba(255, 255, 255, 0.1); }
 
+.btn-sq-lg {
+  width: 125px !important;
+  height: 125px !important;
+  color: #3b597c;
+  border: 1px solid #3b597c;
+  background-color: transparent; }
+  .btn-default:focus, .btn-default:active, .btn-default:hover {
+    color: white;
+    border: 1px solid #3b597c;
+    outline: none;
+    background-color: #3b597c;
+}
+
 .content-section {
   padding-top: 200px;
   padding-bottom: 200px;
